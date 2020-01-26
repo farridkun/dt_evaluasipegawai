@@ -89,7 +89,7 @@ echo "
 				<td>1</td>
 				<td>3</td>
 				<td>1.140115679</td>
-				<td></td>
+				<td>0.462931958</td>
 			</tr>
 			<tr align='center'>
 				<td></td>
@@ -108,7 +108,7 @@ echo "
 				<td>4</td>
 				<td>4</td>
 				<td>0</td>
-				<td></td>
+				<td>0</td>
 				<td></td>
 			</tr>
 		
@@ -125,12 +125,12 @@ echo "
 			<tr align='center'>
 				<td></td>
 				<td>SMA</td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
+				<td>13</td>
+				<td>9</td>
+				<td>1</td>
+				<td>3</td>
+				<td>1.140115679</td>
+				<td>0.255660129</td>
 			</tr>
 			<tr align='center'>
 				<td></td>
@@ -911,10 +911,10 @@ echo	"
 </head>
 
 <body class="p-3 mb-2 bg-primary text-white">
-<div class="container-fluid">
-	<center>
-		<button class="btn btn-dark"><a href="pengujian.php" class="text-white"><b>Pengujian</b></a></button></center>
-		</div>
+	<div class="container-fluid">
+		<center>
+			<button class="btn btn-dark"><a href="pengujian.php" class="text-white"><b>Pengujian</b></a></button></center>
+	</div>
 </body>
 
 </html>
